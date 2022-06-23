@@ -23,14 +23,8 @@ img {
   object-fit: cover;
 }
 
-.description {
-  margin: 10px;
-}
-
-.ingredients {
-  margin: 10px;
-}
-
+.description,
+.ingredients,
 .directions {
   margin: 10px;
 }
