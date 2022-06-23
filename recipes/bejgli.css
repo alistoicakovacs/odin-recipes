@@ -16,3 +16,21 @@ h1 {
 img {
   width: 100%;
 }
+
+.description {
+  margin: 10px;
+}
+
+.ingredients {
+  margin: 10px;
+}
+
+.directions {
+  margin: 10px;
+}
+
+.ingredients h3,
+.description h3,
+.directions h3 {
+  margin-bottom: 10px;
+}
