@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+}
+
+header {
+  background: url("https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?cs=srgb&dl=pexels-ella-olsson-1640777.jpg&fm=jpg");
+  background-size: 100vh;
+  text-align: center;
+  padding: 20px;
+  font-size: larger;
+  height: 50vh;
+  color: white;
+}
+
+header h1 {
+  font-size: 4rem;
+  text-shadow: 1px 1px 0 #000;
+}
+
+a {
+  padding: 20px;
+}
