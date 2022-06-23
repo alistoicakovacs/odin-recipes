@@ -33,5 +33,6 @@ a {
   padding: 20px;
   text-decoration: none;
   font-size: 1.2rem;
-  color: inherit;
+  color: #ff8c00;
+  text-shadow: 0.5px 0.5px #ff8c00;
 }
