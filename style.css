@@ -11,9 +11,10 @@ body {
 header {
   background: url("https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?cs=srgb&dl=pexels-ella-olsson-1640777.jpg&fm=jpg");
   background-size: 100vh;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 20px;
-  font-size: larger;
   height: 50vh;
   color: white;
 }
@@ -23,6 +24,14 @@ header h1 {
   text-shadow: 1px 1px 0 #000;
 }
 
+p {
+  padding: 20px;
+  font-size: 20px;
+}
+
 a {
   padding: 20px;
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: inherit;
 }
